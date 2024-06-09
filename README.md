@@ -1,6 +1,6 @@
 Hi, I’m Michael Schwartz. 
 
-I am currently studying Computer Science through the Oregon State University PostBacc program.
+I am a Software Engineer with over 1 year of industry experience with embedded GPS software in C and C++.
 
 
 
